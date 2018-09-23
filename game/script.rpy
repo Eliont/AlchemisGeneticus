@@ -1,7 +1,10 @@
-﻿init python:
+﻿define gg = Character("Учёный")
+define ii = Character("Ассистент")
+
+init python:
     _game_menu_screen = None
     config.developer = True
-    debug_use_reload_panel = true
+    debug_use_reload_panel = True
 
     gene_constructor_temperature = 30
     gene_constructor_ph = 8
@@ -28,7 +31,7 @@ label start:
     show screen gene_constructor
     
     python:
-        while true:
+        while True:
             ui.interact()
 
     return
