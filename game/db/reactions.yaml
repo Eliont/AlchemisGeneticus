@@ -1,0 +1,1142 @@
+link000:
+  materials:
+  - Бабочка
+  - кровосос
+  output:
+  - Комар
+link001:
+  materials:
+  - Жук
+  - разноцветный
+  output:
+  - Божья коровка
+link002:
+  materials:
+  - Курица
+  - плавает
+  output:
+  - Утка
+link003:
+  materials:
+  - Жук
+  - быстрый
+  output:
+  - Таракан
+link004:
+  materials:
+  - Крокодил
+  - Сканер
+  output:
+  - большой
+  - хищник
+  - ползает
+  - плавает
+link005:
+  materials:
+  - Утка
+  - хищник
+  output:
+  - Сокол
+link006:
+  materials:
+  - Кузнечик
+  - Сканер
+  output:
+  - насекомое
+  - быстрый
+  - прыгает
+link007:
+  materials:
+  - Хомяк
+  - трудолюбивый
+  output:
+  - Белка
+link008:
+  materials:
+  - Крыса
+  - плавает
+  output:
+  - Бобер
+link009:
+  materials:
+  - Пчела
+  - ядовитый
+  output:
+  - Оса
+link010:
+  materials:
+  - Хомяк
+  - плавает
+  output:
+  - Бобер
+link011:
+  materials:
+  - Муравей
+  - большой
+  output:
+  - Жук
+link012:
+  materials:
+  - Гепард
+  - маленький
+  output:
+  - Кот
+link013:
+  materials:
+  - Рыбка
+  - разноцветный
+  output:
+  - Коралловая рыбка
+link014:
+  materials:
+  - Волк
+  - большой
+  output:
+  - Медведь
+link015:
+  materials:
+  - Кузнечик
+  - большой
+  output:
+  - Саранча
+link016:
+  materials:
+  - Летучая рыбка
+  - Сканер
+  output:
+  - летает
+  - плавает
+link017:
+  materials:
+  - Пингвин
+  - Сканер
+  output:
+  - плавает
+link018:
+  materials:
+  - Коала
+  - Сканер
+  output:
+  - большой
+  - хищник
+  - пушистый
+link019:
+  materials:
+  - Летучая мышь
+  - большой
+  output:
+  - Вампир
+link020:
+  materials:
+  - Ящерица
+  - прыгает
+  output:
+  - Лягушка
+link021:
+  materials:
+  - Павлин
+  - маленький
+  output:
+  - Попугайчик
+link022:
+  materials:
+  - Попугайчик
+  - маленький
+  output:
+  - Колибри
+link023:
+  materials:
+  - Пчела
+  - Сканер
+  output:
+  - летает
+  - маленький
+  - пушистый
+  - трудолюбивый
+  - насекомое
+  - общественный
+link024:
+  materials:
+  - длинная шея
+  - Курица
+  output:
+  - Гусь
+link025:
+  materials:
+  - Змея
+  - плавает
+  output:
+  - Угорь
+link026:
+  materials:
+  - Крыса
+  - трудолюбивый
+  output:
+  - Крот
+link027:
+  materials:
+  - Летучая мышь
+  - насекомое
+  output:
+  - Бабочка
+link028:
+  materials:
+  - Сканер
+  - Хомяк
+  output:
+  - грызун
+  - маленький
+link029:
+  materials:
+  - Бабочка
+  - трудолюбивый
+  output:
+  - Пчела
+link030:
+  materials:
+  - Летучая мышь
+  - Сканер
+  output:
+  - грызун
+  - летает
+  - маленький
+link031:
+  materials:
+  - Манул
+  - домашний
+  output:
+  - Кот
+link032:
+  materials:
+  - Касатка
+  - домашний
+  output:
+  - Дельфин
+link033:
+  materials:
+  - Крыса
+  - большой
+  output:
+  - Свинья
+link034:
+  materials:
+  - Акула
+  - разноцветный
+  output:
+  - Касатка
+link035:
+  materials:
+  - Комар
+  - Сканер
+  output:
+  - кровосос
+  - летает
+  - насекомое
+link036:
+  materials:
+  - Лебедь
+  - Сканер
+  output:
+  - летает
+  - плавает
+  - длинная шея
+link037:
+  materials:
+  - Лягушка
+  - Сканер
+  output:
+  - прыгает
+  - плавает
+link038:
+  materials:
+  - Тигр
+  - быстрый
+  output:
+  - Гепард
+link039:
+  materials:
+  - Панда
+  - Сканер
+  output:
+  - разноцветный
+  - большой
+  - хищник
+link040:
+  materials:
+  - Свинья
+  - Сканер
+  output:
+  - домашний
+link041:
+  materials:
+  - Комар
+  - большой
+  output:
+  - Москит
+link042:
+  materials:
+  - Панда
+  - сумчатое
+  output:
+  - Коала
+link043:
+  materials:
+  - Рыбка
+  - насекомое
+  output:
+  - Червяк
+link044:
+  materials:
+  - Пиранья
+  - Сканер
+  output:
+  - плавает
+  - хищник
+link045:
+  materials:
+  - Рыбка
+  - грызун
+  output:
+  - Пиранья
+link046:
+  materials:
+  - Курица
+  - пушистый
+  output:
+  - Киви
+link047:
+  materials:
+  - Бабочка
+  - общественный
+  output:
+  - Пчела
+link048:
+  materials:
+  - Червяк
+  - ядовитый
+  output:
+  - Змея
+link049:
+  materials:
+  - Змея
+  - быстрый
+  output:
+  - Ящерица
+link050:
+  materials:
+  - Колибри
+  - Сканер
+  output:
+  - маленький
+  - летает
+  - разноцветный
+  - трудолюбивый
+link051:
+  materials:
+  - Тушканчик
+  - быстрый
+  output:
+  - Заяц
+link052:
+  materials:
+  - Белка
+  - Сканер
+  output:
+  - грызун
+  - трудолюбивый
+  - длинный хвост
+  - пушистый
+  - прыгает
+link053:
+  materials:
+  - Рыбка
+  - Сканер
+  output:
+  - плавает
+link054:
+  materials:
+  - Зебра
+  - Сканер
+  output:
+  - быстрый
+  - разноцветный
+link055:
+  materials:
+  - Рыбка
+  - хищник
+  output:
+  - Пиранья
+link056:
+  materials:
+  - Сокол
+  - Сканер
+  output:
+  - летает
+  - хищник
+link057:
+  materials:
+  - Бегемот
+  - домашний
+  output:
+  - Корова
+link058:
+  materials:
+  - Пиранья
+  - большой
+  output:
+  - Акула
+link059:
+  materials:
+  - Сканер
+  - Попугайчик
+  output:
+  - летает
+  - разноцветный
+link060:
+  materials:
+  - Кузнечик
+  - хищник
+  output:
+  - Богомол
+link061:
+  materials:
+  - Попугайчик
+  - домашний
+  output:
+  - Курица
+link062:
+  materials:
+  - Лягушка
+  - насекомое
+  output:
+  - Блоха
+link063:
+  materials:
+  - Голубь
+  - Сканер
+  output:
+  - летает
+link064:
+  materials:
+  - Сканер
+  - Кот
+  output:
+  - домашний
+  - пушистый
+link065:
+  materials:
+  - Ящерица
+  - плавает
+  output:
+  - Лягушка
+link066:
+  materials:
+  - Медведь
+  - большой
+  output:
+  - Белый медведь
+link067:
+  materials:
+  - Хомяк
+  - пушистый
+  output:
+  - Шиншилла
+link068:
+  materials:
+  - Собака
+  - Сканер
+  output:
+  - домашний
+  - общественный
+link069:
+  materials:
+  - Лев
+  - Сканер
+  output:
+  - большой
+  - хищник
+link070:
+  materials:
+  - Бегемот
+  - рогатый
+  output:
+  - Носорог
+link071:
+  materials:
+  - Корова
+  - плавает
+  output:
+  - Тюлень
+link072:
+  materials:
+  - Комар
+  - разноцветный
+  output:
+  - Бабочка
+link073:
+  materials:
+  - Бабочка
+  - маленький
+  output:
+  - Моль
+link074:
+  materials:
+  - Вампир
+  - маленький
+  output:
+  - Комар
+link075:
+  materials:
+  - Манул
+  - Сканер
+  output:
+  - пушистый
+link076:
+  materials:
+  - Лошадь
+  - Сканер
+  output:
+  - быстрый
+  - домашний
+link077:
+  materials:
+  - Сканер
+  - Акула
+  output:
+  - большой
+  - плавает
+  - хищник
+link078:
+  materials:
+  - Киви
+  - плавает
+  output:
+  - Пингвин
+link079:
+  materials:
+  - длинная шея
+  - Утка
+  output:
+  - Гусь
+link080:
+  materials:
+  - Свинья
+  - рогатый
+  output:
+  - Кабан
+link081:
+  materials:
+  - Червяк
+  - кровосос
+  output:
+  - Пиявка
+link082:
+  materials:
+  - Медведь
+  - разноцветный
+  output:
+  - Панда
+link083:
+  materials:
+  - Морж
+  - пушистый
+  output:
+  - Морской котик
+link084:
+  materials:
+  - Жук
+  - Сканер
+  output:
+  - насекомое
+  - летает
+link085:
+  materials:
+  - Паук
+  - длинный хвост
+  output:
+  - Скорпион
+link086:
+  materials:
+  - Белка
+  - летает
+  output:
+  - Белка-летяга
+link087:
+  materials:
+  - Лошадь
+  - маленький
+  output:
+  - Осел
+link088:
+  materials:
+  - Киви
+  - быстрый
+  output:
+  - Страус
+link089:
+  materials:
+  - Пчела
+  - разноцветный
+  output:
+  - Бабочка
+link090:
+  materials:
+  - Курица
+  - разноцветный
+  output:
+  - Павлин
+link091:
+  materials:
+  - Саранча
+  - хищник
+  output:
+  - Богомол
+link092:
+  materials:
+  - Свинья
+  - большой
+  output:
+  - Бегемот
+link093:
+  materials:
+  - Утка
+  - Сканер
+  output:
+  - домашний
+  - плавает
+  - летает
+link094:
+  materials:
+  - Воробей
+  - Сканер
+  output:
+  - прыгает
+  - маленький
+  - летает
+  - быстрый
+link095:
+  materials:
+  - Антилопа
+  - домашний
+  output:
+  - Лошадь
+link096:
+  materials:
+  - Крыса
+  - Сканер
+  output:
+  - длинный хвост
+  - грызун
+link097:
+  materials:
+  - Овца
+  - рогатый
+  output:
+  - Баран
+link098:
+  materials:
+  - Овца
+  - Сканер
+  output:
+  - домашний
+  - пушистый
+link099:
+  materials:
+  - Ящерица
+  - большой
+  output:
+  - Крокодил
+link100:
+  materials:
+  - Свинья
+  - плавает
+  output:
+  - Морж
+link101:
+  materials:
+  - Голубь
+  - плавает
+  output:
+  - Чайка
+link102:
+  materials:
+  - Муравей
+  - кровосос
+  output:
+  - Блоха
+link103:
+  materials:
+  - Муравей
+  - хищник
+  output:
+  - Паук
+link104:
+  materials:
+  - Кит
+  - хищник
+  output:
+  - Кашалот
+link105:
+  materials:
+  - Оса
+  - Сканер
+  output:
+  - насекомое
+  - летает
+  - ядовитый
+link106:
+  materials:
+  - Тарантул
+  - Сканер
+  output:
+  - пушистый
+  - ядовитый
+  - насекомое
+link107:
+  materials:
+  - Волк
+  - Сканер
+  output:
+  - хищник
+link108:
+  materials:
+  - Блоха
+  - Сканер
+  output:
+  - быстрый
+  - насекомое
+  - прыгает
+  - маленький
+  - кровосос
+link109:
+  materials:
+  - Кот
+  - пушистый
+  output:
+  - Манул
+link110:
+  materials:
+  - Волк
+  - разноцветный
+  output:
+  - Лиса
+link111:
+  materials:
+  - Краб
+  - большой
+  output:
+  - Лобстер
+link112:
+  materials:
+  - Жук
+  - прыгает
+  output:
+  - Кузнечик
+link113:
+  materials:
+  - ядовитый
+  - Паук
+  output:
+  - Тарантул
+link114:
+  materials:
+  - Лошадь
+  - рогатый
+  output:
+  - Олень
+link115:
+  materials:
+  - Колибри
+  - маленький
+  output:
+  - Бабочка
+link116:
+  materials:
+  - Гепард
+  - Сканер
+  output:
+  - быстрый
+  - хищник
+link117:
+  materials:
+  - хищник
+  - Кот
+  output:
+  - Лев
+link118:
+  materials:
+  - Тушканчик
+  - большой
+  output:
+  - Кенгуру
+link119:
+  materials:
+  - Бегемот
+  - Сканер
+  output:
+  - большой
+  - плавает
+link120:
+  materials:
+  - Страус
+  - Сканер
+  output:
+  - быстрый
+  - длинная шея
+link121:
+  materials:
+  - Олень
+  - большой
+  output:
+  - Лось
+link122:
+  materials:
+  - Сокол
+  - большой
+  output:
+  - Орел
+link123:
+  materials:
+  - Лошадь
+  - длинная шея
+  output:
+  - Жираф
+link124:
+  materials:
+  - Змея
+  - насекомое
+  output:
+  - Червяк
+link125:
+  materials:
+  - Бобер
+  - Сканер
+  output:
+  - трудолюбивый
+  - грызун
+  - плавает
+link126:
+  materials:
+  - Медведь
+  - Сканер
+  output:
+  - большой
+  - хищник
+link127:
+  materials:
+  - Носорог
+  - Сканер
+  output:
+  - рогатый
+  - большой
+link128:
+  materials:
+  - Корова
+  - быстрый
+  output:
+  - Антилопа
+link129:
+  materials:
+  - Бегемот
+  - большой
+  output:
+  - Слон
+link130:
+  materials:
+  - Хомяк
+  - прыгает
+  output:
+  - Тушканчик
+link131:
+  materials:
+  - Змея
+  - Сканер
+  output:
+  - ползает
+  - ядовитый
+  - длинный хвост
+  - длинная шея
+link132:
+  materials:
+  - Саранча
+  - Сканер
+  output:
+  - прыгает
+  - летает
+  - насекомое
+  - большой
+link133:
+  materials:
+  - Голубь
+  - прыгает
+  output:
+  - Воробей
+link134:
+  materials:
+  - Рыбка
+  - летает
+  output:
+  - Летучая рыбка
+link135:
+  materials:
+  - Енот
+  - ядовитый
+  output:
+  - Скунс
+link136:
+  materials:
+  - Баран
+  - домашний
+  output:
+  - Овца
+link137:
+  materials:
+  - Антилопа
+  - Сканер
+  output:
+  - рогатый
+  - большой
+  - быстрый
+link138:
+  materials:
+  - Волк
+  - домашний
+  output:
+  - Собака
+link139:
+  materials:
+  - Хомяк
+  - летает
+  output:
+  - Летучая мышь
+link140:
+  materials:
+  - Тигр
+  - Сканер
+  output:
+  - большой
+  - хищник
+  - разноцветный
+link141:
+  materials:
+  - Павлин
+  - Сканер
+  output:
+  - разноцветный
+  - летает
+  - длинная шея
+link142:
+  materials:
+  - Вампир
+  - Сканер
+  output:
+  - кровосос
+  - летает
+link143:
+  materials:
+  - Чайка
+  - большой
+  output:
+  - Альбатрос
+link144:
+  materials:
+  - Летучая мышь
+  - хищник
+  output:
+  - Вампир
+link145:
+  materials:
+  - Комар
+  - трудолюбивый
+  output:
+  - Муравей
+link146:
+  materials:
+  - Кот
+  - большой
+  output:
+  - Лев
+link147:
+  materials:
+  - Сканер
+  - Муравей
+  output:
+  - маленький
+  - трудолюбивый
+  - насекомое
+  - общественный
+  - быстрый
+link148:
+  materials:
+  - Киви
+  - Сканер
+  output:
+  - пушистый
+link149:
+  materials:
+  - Утка
+  - длинная шея
+  output:
+  - Лебедь
+link150:
+  materials:
+  - Медведь
+  - сумчатое
+  output:
+  - Коала
+link151:
+  materials:
+  - Курица
+  - большой
+  output:
+  - Индюк
+link152:
+  materials:
+  - Курица
+  - маленький
+  output:
+  - Голубь
+link153:
+  materials:
+  - Лошадь
+  - разноцветный
+  output:
+  - Зебра
+link154:
+  materials:
+  - Лиса
+  - разноцветный
+  output:
+  - Енот
+link155:
+  materials:
+  - Курица
+  - Сканер
+  output:
+  - домашний
+link156:
+  materials:
+  - Корова
+  - Сканер
+  output:
+  - домашний
+  - большой
+  - рогатый
+link157:
+  materials:
+  - Ящерица
+  - Сканер
+  output:
+  - быстрый
+  - ползает
+  - длинный хвост
+link158:
+  materials:
+  - Скорпион
+  - Сканер
+  output:
+  - насекомое
+  - длинный хвост
+  - ядовитый
+link159:
+  materials:
+  - Корова
+  - маленький
+  output:
+  - Овца
+link160:
+  materials:
+  - Дельфин
+  - большой
+  output:
+  - Кит
+link161:
+  materials:
+  - Лев
+  - разноцветный
+  output:
+  - Тигр
+link162:
+  materials:
+  - Лев
+  - быстрый
+  output:
+  - Гепард
+link163:
+  materials:
+  - Утка
+  - большой
+  output:
+  - Лебедь
+link164:
+  materials:
+  - Кенгуру
+  - Сканер
+  output:
+  - большой
+  - прыгает
+  - сумчатое
+link165:
+  materials:
+  - Коралловая рыбка
+  - Сканер
+  output:
+  - плавает
+  - разноцветный
+  - маленький
+link166:
+  materials:
+  - Тюлень
+  - Сканер
+  output:
+  - плавает
+  - большой
+link167:
+  materials:
+  - Попугайчик
+  - трудолюбивый
+  output:
+  - Дятел
+link168:
+  materials:
+  - Червяк
+  - Сканер
+  output:
+  - ползает
+  - насекомое
+link169:
+  materials:
+  - Лебедь
+  - быстрый
+  output:
+  - Страус
+link170:
+  materials:
+  - Скорпион
+  - плавает
+  output:
+  - Краб
+link171:
+  materials:
+  - Голубь
+  - маленький
+  output:
+  - Воробей
+link172:
+  materials:
+  - Крыса
+  - хищник
+  output:
+  - Волк
+link173:
+  materials:
+  - Хомяк
+  - большой
+  output:
+  - Крыса
+link174:
+  materials:
+  - Слон
+  - пушистый
+  output:
+  - Мамонт

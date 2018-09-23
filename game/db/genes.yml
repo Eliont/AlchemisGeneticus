@@ -1,0 +1,212 @@
+chassis:
+    blood:
+        group: 1
+        letter: a
+        name: Теплокровин
+        desc: мясо и мышцы
+        unlocked: true
+        
+    halc:
+        group: 1
+        letter: b
+        name: Халкомутаген
+        desc: особенно крепкие мышцы
+        unlocked: false
+        
+    fito:
+        group: 1
+        letter: c
+        name: Фитогербарин
+        desc: для растений с низкой подвижностью
+        unlocked: true
+        
+    entoid:
+        group: 1
+        letter: d
+        name: Энтоид
+        desc: для растений с более прочным скелетом и более высокой подвижностью
+        unlocked: false
+        
+        
+diet:    
+    autotroph:
+        group: 2
+        letter: a
+        name: Автотрофус
+        desc: синтез из солн. света
+        unlocked: true
+        
+    geterotroph:
+        group: 2
+        letter: b
+        name: Гетеротрофус
+        desc: поглощает другие организмы
+        unlocked: true
+        
+    
+skin:    
+    aquaplant:
+        group: 3
+        letter: a
+        name: Акваплантин
+        desc: водоросли
+        unlocked: true
+        
+    herbal:
+        group: 3
+        letter: b
+        name: Хербакреатин
+        desc: трава
+        unlocked: true
+        
+    fur:
+        group: 3
+        letter: c
+        name: Пушистисохорнин
+        desc: смешанный для шерсти и рогов
+        unlocked: true
+    
+ 
+color: 
+    white:
+        group: 4
+        letter: a
+        name: Альбусокератин
+        desc: белый
+        unlocked: true
+        
+    gold:
+        group: 4
+        letter: b
+        name: Аэрэусокератин
+        desc: золотистый
+        unlocked: true
+        
+    blue:
+        group: 4
+        letter: c
+        name: Каэрулеусотин
+        desc: синий
+        unlocked: true
+        
+    purple:
+        group: 4
+        letter: d
+        name: Виолабьютин
+        desc: пурпурный
+        unlocked: true
+        
+    pink:
+        group: 4
+        letter: e
+        name: Розарин
+        desc: розовый
+        unlocked: true
+    
+    
+behavior:
+    agressive:
+        group: 5
+        letter: a
+        name: Мизогенин
+        desc: вызывает агрессию
+        unlocked: false
+        
+    friendly:
+        group: 5
+        letter: b
+        name: Филоксон
+        desc: склонность вести себя дружелюбно
+        unlocked: true
+        
+    adaptive:
+        group: 5
+        letter: c
+        name: Адаптоний
+        desc: нормальное среднее поведение
+        unlocked: true
+        
+    lovely:
+        group: 5
+        letter: d
+        name: Аморсон
+        desc: романтичность и склонность привязываться
+        unlocked: false
+    
+
+brain:    
+    pain:
+        group: 6
+        letter: a
+        name: Долорокиллер
+        desc: низкий болевой порог)
+        unlocked: true
+        
+    frigid:
+        group: 6
+        letter: b
+        name: Пуритин
+        desc: фригидность
+        unlocked: false
+        
+    intelligent:
+        group: 6
+        letter: c
+        name: Розумем
+        desc: потенциальная способность понимать речь
+        unlocked: true
+        
+    lusty:
+        group: 6
+        letter: d
+        name: Гибберлин
+        desc: похотливость для животных, растения делает способными к размножению от человеческой спермы
+        unlocked: false
+    
+
+cognitive:    
+    learning:
+        group: 7
+        letter: a
+        name: Ратиобразим
+        desc: высокая обучаемость
+        unlocked: true
+        
+    orator:
+        group: 7
+        letter: b
+        name: Оратиоксис
+        desc: потенциальная способность разговаривать
+        unlocked: true
+        
+    empatic:
+        group: 7
+        letter: c
+        name: Эмпатидий
+        desc: эмпатичность
+        unlocked: true
+        
+    down:
+        group: 7
+        letter: d
+        name: Дементид
+        desc: слабоумие
+        unlocked: false
+    
+    
+bust:    
+    bust2:
+        group: 8 
+        letter: a
+        name: Даблодоин
+        desc: одна пара
+        unlocked: true
+        
+    bust4:
+        group: 8
+        letter: b
+        name: Квадрасисиум
+        desc: две пары
+        unlocked: true
+    
+ 

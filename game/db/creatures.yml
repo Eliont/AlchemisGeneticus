@@ -1,0 +1,205 @@
+
+flowkelp:
+    name: Флоукельп
+    desc: водоросль-тян
+    
+    pattern:
+        chassis: [ c, d ]
+        diet: [ a ]
+        skin: [ a ]
+        
+    temperature:
+        min: 10
+        max: 30
+        survive: 80
+        
+    ph:
+        min: 6
+        max: 8
+        survive: 90
+        
+    temperature_mutation:
+        -   value: above
+            chance: 40
+            group: brain
+            id: lusty
+            
+        -   value: above
+            chance: 40
+            group: brain
+            id: frigid
+            
+        -   value: below
+            chance: 40
+            group: behavior
+            id: agressive
+            
+        -   value: below
+            chance: 40
+            group: behavior
+            id: lovely
+            
+    ph_mutation:
+        -   value: above
+            chance: 40
+            group: cognitive
+            id: down
+            
+        -   value: below
+            chance: 40
+            group: cognitive
+            id: down
+            
+        -   value: above
+            chance: 40
+            group: chassis
+            id: entoid
+            
+        -   value: below
+            chance: 40
+            group: chassis
+            id: entoid
+
+
+alraune:
+    name: Альраун
+    desc: травяная тян
+    
+    pattern:
+        chassis: [ c, d ]
+        diet: [ a, b ]
+        skin: [ b ]
+        
+    temperature:
+        min: 15
+        max: 35
+        survive: 80
+        
+    ph:
+        min: 4
+        max: 8
+        survive: 60
+        
+    temperature_mutation:
+        -   value: above
+            chance: 40
+            group: brain
+            id: lusty
+            
+        -   value: above
+            chance: 40
+            group: brain
+            id: frigid
+            
+        -   value: below
+            chance: 40
+            group: behavior
+            id: agressive
+            
+        -   value: below
+            chance: 40
+            group: behavior
+            id: lovely
+            
+    ph_mutation:
+        -   value: above
+            chance: 30
+            group: cognitive
+            id: down
+            
+        -   value: below
+            chance: 30
+            group: cognitive
+            id: down
+            
+        -   value: above
+            chance: 30
+            group: chassis
+            id: entoid
+            
+        -   value: below
+            chance: 30
+            group: chassis
+            id: entoid
+
+            
+            
+holstaurus:
+    name: Холстаурус
+    desc: Милка
+    
+    pattern:
+        chassis: [ a, b ]
+        diet: [ b ]
+        skin: [ c ]
+        
+    temperature:
+        min: 34
+        max: 38
+        survive: 50
+        
+    ph:
+        min: 8
+        max: 8
+        survive: 75
+        
+    temperature_mutation:
+        -   value: above
+            chance: 25
+            group: brain
+            id: lusty
+            
+        -   value: above
+            chance: 25
+            group: brain
+            id: frigid
+            
+        -   value: above
+            chance: 25
+            group: behavior
+            id: agressive
+            
+        -   value: above
+            chance: 25
+            group: behavior
+            id: lovely
+            
+    ph_mutation:
+        -   value: above
+            chance: 25
+            group: cognitive
+            id: down
+            
+        -   value: below
+            chance: 25
+            group: cognitive
+            id: down
+            
+        -   value: above
+            chance: 50
+            group: chassis
+            id: halc
+            
+        -   value: below
+            chance: 50
+            group: chassis
+            id: halc
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            

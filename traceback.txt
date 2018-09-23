@@ -1,0 +1,37 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 16, in script call
+    call intro
+  File "game/story/intro.rpy", line 79, in script
+    s "{Перед Вами доска, на которой Вы будете выбирать генофонд будущего существа."
+Exception: Open text tag at end of string u'{i}{\u041f\u0435\u0440\u0435\u0434 \u0412\u0430\u043c\u0438 \u0434\u043e\u0441\u043a\u0430, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0412\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u0432\u044b\u0431\u0438\u0440\u0430\u0442\u044c \u0433\u0435\u043d\u043e\u0444\u043e\u043d\u0434 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0430.'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 16, in script call
+    call intro
+  File "game/story/intro.rpy", line 79, in script
+    s "{Перед Вами доска, на которой Вы будете выбирать генофонд будущего существа."
+  File "D:\Soft\renpy-6.99.11-sdk\renpy\ast.py", line 678, in execute
+    renpy.exports.say(who, what, interact=self.interact, *args, **kwargs)
+  File "D:\Soft\renpy-6.99.11-sdk\renpy\exports.py", line 1203, in say
+    who(what, *args, **kwargs)
+  File "D:\Soft\renpy-6.99.11-sdk\renpy\character.py", line 1027, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, **display_args)
+  File "D:\Soft\renpy-6.99.11-sdk\renpy\character.py", line 819, in do_display
+    **display_args)
+  File "D:\Soft\renpy-6.99.11-sdk\renpy\character.py", line 552, in display_say
+    what_text.update()
+  File "D:\Soft\renpy-6.99.11-sdk\renpy\text\text.py", line 1578, in update
+    tokens = self.tokenize(text)
+  File "D:\Soft\renpy-6.99.11-sdk\renpy\text\text.py", line 2001, in tokenize
+    tokens.extend(textsupport.tokenize(i))
+  File "textsupport.pyx", line 122, in renpy.text.textsupport.tokenize
+Exception: Open text tag at end of string u'{i}{\u041f\u0435\u0440\u0435\u0434 \u0412\u0430\u043c\u0438 \u0434\u043e\u0441\u043a\u0430, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0412\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u0432\u044b\u0431\u0438\u0440\u0430\u0442\u044c \u0433\u0435\u043d\u043e\u0444\u043e\u043d\u0434 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0430.'.
+
+Windows-7-6.1.7601-SP1
+Ren'Py 7.1.0.882
+AlchemisGeneticus 1.0
+Sun Sep 23 19:11:37 2018
