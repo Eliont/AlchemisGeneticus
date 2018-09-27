@@ -9,6 +9,15 @@ init python:
     gene_constructor_temperature = 30
     gene_constructor_ph = 8
 
+    # ============== ПЕРЕМЕННЫЕ ====================
+    $ spray_tested = False
+    $ sprinkler_system_tested = False
+    $ paddl_tested = False
+    $ whip_tested = False
+    $ electricity_tested = False
+    $ anal_vibrator_tested = False
+    $ XL_vibrator_tested = False
+
 label main_menu:
     return   
 
