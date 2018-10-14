@@ -2,13 +2,25 @@
 errors listed below, and try again.
 
 
-File "game/story/intro.rpy", line 18: end of line expected.
-    show assistent as a with dissolve at right
-                                      ^
+File "game/story/intro.rpy", line 411: if statement expects a non-empty block.
+    if assistent_points > 10:
+                             ^
 
-File "game/story/intro.rpy", line 19: end of line expected.
-    show mh1 as mh with dissolve at left
-                                 ^
+File "game/story/intro.rpy", line 618: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    "Она попыталась сопротивляться, но робот оказался сильнее."
+    ^
 
-Ren'Py Version: Ren'Py 7.1.0.882
-Sun Sep 23 17:31:32 2018
+File "game/story/intro.rpy", line 834: expected statement.
+    ii: "[full_name]? Разве она может причинить кому-то вред?"
+      ^
+
+File "game/story/intro.rpy", line 841: expected statement.
+    ii: "Именно."
+      ^
+
+File "game/story/intro.rpy", line 998: choice menuitem expects a non-empty block.
+    "Ласкай её":
+                ^
+
+Ren'Py Version: Ren'Py 7.1.1.928
+Tue Oct 09 18:10:33 2018

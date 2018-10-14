@@ -2,13 +2,19 @@
 define ii = Character("Ассистент")
 
 init python:
-    _game_menu_screen = None
+    #_game_menu_screen = None
     config.developer = True
     debug_use_reload_panel = True
 
     gene_constructor_temperature = 30
     gene_constructor_ph = 8
     
+    
+
+label main_menu:
+    return   
+
+label start:
     # ============== ПЕРЕМЕННЫЕ ====================
     $ spray_tested = False
     $ sprinkler_system_tested = False
@@ -19,13 +25,9 @@ init python:
     $ XL_vibrator_tested = False
 
     $ how_to_touch = False
+    $ index = 0 # переменная для отступов без ошибки
 
     $ max_experimets_count = 5
-
-label main_menu:
-    return   
-
-label start:
     scene lab with dissolve
     show screen debugTools
     
