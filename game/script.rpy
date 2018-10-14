@@ -27,8 +27,13 @@ label start:
     $ how_to_touch = False
     $ index = 0 # переменная для отступов без ошибки
 
+    $ love_herb = 0 # ласковое
+    $ evil_herb = 0 # злое
+    $ good_herb = 0 # доброе
+    $ depr_herb = 0 # развратное
+
     $ max_experimets_count = 5
-    scene lab with dissolve
+    scene black with dissolve
     show screen debugTools
     
     call intro from _call_intro
