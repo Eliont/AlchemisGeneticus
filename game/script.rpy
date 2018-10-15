@@ -2,13 +2,19 @@
 define ii = Character("Ассистент")
 
 init python:
-    _game_menu_screen = None
+    #_game_menu_screen = None
     config.developer = True
     debug_use_reload_panel = True
 
     gene_constructor_temperature = 30
     gene_constructor_ph = 8
     
+    
+
+label main_menu:
+    return   
+
+label start:
     # ============== ПЕРЕМЕННЫЕ ====================
     $ spray_tested = False
     $ sprinkler_system_tested = False
@@ -30,13 +36,16 @@ init python:
 
     $ way_to_touch = 'None' #не знает как экспериментуемой нравится чтобы её трогали
 
+    $ index = 0 # переменная для отступов без ошибки
+
+
+    $ love_herb = 0 # ласковое
+    $ evil_herb = 0 # злое
+    $ good_herb = 0 # доброе
+    $ depr_herb = 0 # развратное
+
     $ max_experimets_count = 5
-
-label main_menu:
-    return   
-
-label start:
-    scene lab with dissolve
+    scene black with dissolve
     show screen debugTools
     
     call intro from _call_intro
