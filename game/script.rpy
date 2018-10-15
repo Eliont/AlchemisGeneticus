@@ -18,7 +18,17 @@ init python:
     $ anal_vibrator_tested = False
     $ XL_vibrator_tested = False
 
-    $ how_to_touch = False
+    $ intro_teaching_passed = False
+
+    $ first_posing_try = True
+    $ posing_teached = False
+
+    $ first_blowjob_try = True
+    $ blowjob_teached = False
+
+    $ intro_to_itself = False
+
+    $ way_to_touch = 'None' #не знает как экспериментуемой нравится чтобы её трогали
 
     $ max_experimets_count = 5
 
